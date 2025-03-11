@@ -13,4 +13,4 @@
 3. GitHub Desktop
 
 ## Links
-[My GitHub Profile] (https://github.com/dinhky-web)
+[My GitHub Profile](https://github.com/dinhky-web)
